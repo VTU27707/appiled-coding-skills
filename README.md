@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/VTU27707/appiled-coding-skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU27707/appiled-coding-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27707/appiled-coding-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/VTU27707/appiled-coding-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/VTU27707/appiled-coding-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/VTU27707/appiled-coding-skills/tree/master/0933-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/VTU27707/appiled-coding-skills/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
