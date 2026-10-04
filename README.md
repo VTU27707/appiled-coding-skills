@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/VTU27707/appiled-coding-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/VTU27707/appiled-coding-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VTU27707/appiled-coding-skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/VTU27707/appiled-coding-skills/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VTU27707/appiled-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/VTU27707/appiled-coding-skills/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/VTU27707/appiled-coding-skills/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/VTU27707/appiled-coding-skills/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/VTU27707/appiled-coding-skills/tree/master/0704-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/VTU27707/appiled-coding-skills/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
