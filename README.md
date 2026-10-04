@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VTU27707/appiled-coding-skills/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/VTU27707/appiled-coding-skills/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VTU27707/appiled-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VTU27707/appiled-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27707/appiled-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/VTU27707/appiled-coding-skills/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VTU27707/appiled-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VTU27707/appiled-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27707/appiled-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/VTU27707/appiled-coding-skills/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VTU27707/appiled-coding-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VTU27707/appiled-coding-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27707/appiled-coding-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/VTU27707/appiled-coding-skills/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/VTU27707/appiled-coding-skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/VTU27707/appiled-coding-skills/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
