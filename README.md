@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VTU27707/appiled-coding-skills/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/VTU27707/appiled-coding-skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/VTU27707/appiled-coding-skills/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/VTU27707/appiled-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VTU27707/appiled-coding-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VTU27707/appiled-coding-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/VTU27707/appiled-coding-skills/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/VTU27707/appiled-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VTU27707/appiled-coding-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/VTU27707/appiled-coding-skills/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/VTU27707/appiled-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VTU27707/appiled-coding-skills/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VTU27707/appiled-coding-skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
