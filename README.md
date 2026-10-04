@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/VTU27707/appiled-coding-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VTU27707/appiled-coding-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/VTU27707/appiled-coding-skills/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/VTU27707/appiled-coding-skills/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VTU27707/appiled-coding-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/VTU27707/appiled-coding-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VTU27707/appiled-coding-skills/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/VTU27707/appiled-coding-skills/tree/master/0946-validate-stack-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/VTU27707/appiled-coding-skills/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/VTU27707/appiled-coding-skills/tree/master/0946-validate-stack-sequences) |
 ## Data Stream
 |  |
 | ------- |
